@@ -1,6 +1,4 @@
-### Hi there 👋, Rulin Rahman
-#### I am a Professional Game Developer
-![I am a Professional Game Developer](https://media-exp1.licdn.com/dms/image/C4D16AQH0eVsu0NLW9A/profile-displaybackgroundimage-shrink_350_1400/0/1608842818528?e=1663200000&v=beta&t=o96LEJD5_9ebwrFlFg7TRvOhYAGBvZa0sTuWWGVQrME)
+(https://media-exp1.licdn.com/dms/image/C4D16AQH0eVsu0NLW9A/profile-displaybackgroundimage-shrink_350_1400/0/1608842818528?e=1663200000&v=beta&t=o96LEJD5_9ebwrFlFg7TRvOhYAGBvZa0sTuWWGVQrME)
 
 " I am a professional Game Developer who has 2+ years of
 experience in the Mobile Game Industry. ”
