@@ -1,4 +1,4 @@
-<h3 align="center">" I am a professional <b>Game Developer</b> who has 2+ years of experience in the  <b>Mobile Game Industry</b>. I can assist your company to develop the Ready-to-Publish-game, game-prototype, reskinning-project, and much more which you want.” ”</h3>
+<h3 align="center">" I am a professional <b>Hyper Casual Game Developer</b> who has 2+ years of experience in the  <b>Mobile Game Industry</b>. I can assist your company to develop the Ready-to-Publish-game, game-prototype, reskinning-project, and much more which you want.” ”</h3>
 
 
 
