@@ -1,5 +1,9 @@
 <h3 align="center">" I am a <b>Hyper Casual Game Developer</b> who has 2+ years of professional experience in the  <b>Mobile Game Industry</b>. I can assist your company to develop the Ready-to-Publish-game, game-prototype, reskinning-project, and much more which you want.” ”</h3>
 
+<h3 align="center">"I am a professional game developer. I have 2+ years of professional experience working on hyper-casual games in the mobile game industry. As a game developer, I can create hyper casual game prototypes, project reskin, and scratch to complete the project that is ready to publish, in a very short time. Also, I can implement 3rd party SDK and AD networks with ad monetization.
+
+I can adapt to new technology very quickly, So hopefully, I won't have any problems with new technology in the future.” ”</h3>
+
 
 
 <h3 align="center">Connect With Me</h3>
