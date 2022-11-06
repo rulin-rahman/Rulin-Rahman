@@ -30,6 +30,3 @@ I can adapt to new technology very quickly, So hopefully, I won't have any probl
   <img src="https://construct-static.com/images/v1034/r/global/construct-3-logo_v64.png" title="construct-3" alt="construct-3" width="40" height="40"/>&nbsp;
   <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1667475561" title="construct-3" alt="construct-3" width="40" height="40"/>&nbsp;
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
