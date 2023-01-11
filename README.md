@@ -1,4 +1,4 @@
-<h3 align="center">"I am a professional <b>game developer</b>. I have 2+ years of professional experience working on hyper-casual games in the mobile game industry. As a game developer, I can create hyper casual game prototypes, project reskin, and scratch to complete the project that is ready to publish, in a very short time. Also, I can implement 3rd party SDK and AD networks with ad monetization.
+<h3 align="center">"I am a professional <b>game developer</b>. I have 3+ years of professional experience working on hyper-casual games in the mobile game industry. As a game developer, I can create hyper casual game prototypes, project reskin, and scratch to complete the project that is ready to publish, in a very short time. Also, I can implement 3rd party SDK and AD networks with ad monetization.
 
 I can adapt to new technology very quickly, So hopefully, I won't have any problems with new technology in the future.” ”</h3>
 
